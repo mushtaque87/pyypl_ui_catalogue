@@ -1,7 +1,7 @@
 {
   "name": "pyypl_ui_catalogue",
-  "version": "0.0.1",
-  "private": true,
+  "version": "1.0.0",
+  "private": false,
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
@@ -32,5 +32,24 @@
   },
   "jest": {
     "preset": "react-native"
-  }
+  },
+  "description": "Pyypl UI Catalogue Library",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mushtaque87/pyypl_ui_catalogue.git"
+  },
+  "keywords": [
+    "pyypl",
+    "catalogue",
+    "ui",
+    "design",
+    "systems"
+  ],
+  "author": "Pyypl Design Systems Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mushtaque87/pyypl_ui_catalogue/issues"
+  },
+  "homepage": "https://github.com/mushtaque87/pyypl_ui_catalogue#readme"
 }
